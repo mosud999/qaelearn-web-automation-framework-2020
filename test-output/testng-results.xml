@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15607" started-at="2020-07-05T01:10:51 EDT" finished-at="2020-07-05T01:11:07 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15607" started-at="2020-07-05T01:10:51 EDT" finished-at="2020-07-05T01:11:07 EDT">
+      <class name="com.web.pages.execution.TargetPagesExecution">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.web.pages.execution.TargetPagesExecution@27a8c74e]" name="setUp" is-config="true" duration-ms="4582" started-at="2020-07-05T01:10:51 EDT" finished-at="2020-07-05T01:10:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="targetAllPageExecution()[pri:0, instance:com.web.pages.execution.TargetPagesExecution@27a8c74e]" name="targetAllPageExecution" duration-ms="11000" started-at="2020-07-05T01:10:56 EDT" finished-at="2020-07-05T01:11:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- targetAllPageExecution -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.web.pages.execution.TargetPagesExecution@27a8c74e]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-07-05T01:11:07 EDT" finished-at="2020-07-05T01:11:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.web.pages.execution.TargetPagesExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
